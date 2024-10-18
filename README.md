@@ -11,9 +11,11 @@ This project was executed as 4 Sprints during Week 6 of the Bootcamp
 
 Description of Files:
 From this REPO, below is the sequence of ipynb that should be run. 
-    1. Robo_Review_KK_SentiAnalysis_RoBERTa_Prefinal.ipynb: Performs preprocessing and does the sentiment analysis.
-    2. Robo_review_kk_Clustering_K-means_Prefinal.ipynb: Performs clustering based on Category names (products)
-    3. Robo_review_kk_Summarizer_T5_Base_Prefinal.ipynb: Summarizes the Customer reviews and presents it in a user friendly fashion. 3 steps to it, first step      provides a general summary, second one provides highlight & issues summary and third one aggregates both and produces a html output. This creates a Gradio app as well which could be hosted in Huggingface.
-    4. Final Product Review Output_ReviewHive.HTML: This is not hosted. this is a Wireframe to inform how the actual website will look like.
-    5. ReviewHive_Customer Reviews.ppts: This is the Final presentation of the project. 
+1. Robo_Review_KK_SentiAnalysis_RoBERTa_Prefinal.ipynb: Performs preprocessing and does the sentiment analysis.
+2. Robo_review_kk_Clustering_K-means_Prefinal.ipynb: Performs clustering based on Category names (products)
+3. Robo_review_kk_Summarizer_T5_Base_Prefinal.ipynb: Summarizes the Customer reviews and presents it in a user friendly fashion. 3 steps to it.
+   first step provides a general summary, second one provides highlight & issues summary and third one aggregates both and produces a html output.
+   This creates a Gradio app as well which could be hosted in Huggingface.
+4. Final Product Review Output_ReviewHive.HTML: This is not hosted. this is a Wireframe to inform how the actual website will look like.
+5. ReviewHive_Customer Reviews.ppts: This is the Final presentation of the project. 
     
