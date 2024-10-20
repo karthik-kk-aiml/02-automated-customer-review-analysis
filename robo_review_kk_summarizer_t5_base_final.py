@@ -1,7 +1,7 @@
 """
 This module summarizes product reviews using the T5-Base model and provides
 blog-style summaries, highlights, and issues for each product category. 
-Then it aggregates all the summaries creating a gradio app & html wireframe file.
+Then it aggregates all the summaries creating a gradio app & html wireframe file. 
 """
 
 # Standard imports

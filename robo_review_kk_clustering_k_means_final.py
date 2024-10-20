@@ -1,7 +1,7 @@
 """
 This module performs K-Means clustering on Amazon product reviews and visualizes
 the clusters using PCA and scatter plots. It also generates an elbow diagram to
-identify the optimal number of clusters.
+identify the optimal number of clusters. 
 """
 
 # Import Libraries
