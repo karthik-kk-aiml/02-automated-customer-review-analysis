@@ -1,0 +1,8 @@
+gradio
+beautifulsoup4
+transformers
+pandas 
+torch
+scikit-learn
+matplotlib
+seaborn
